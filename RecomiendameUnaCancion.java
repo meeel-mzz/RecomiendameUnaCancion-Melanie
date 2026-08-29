@@ -9,7 +9,13 @@ public class RecomiendameUnaCancion {
         System.out.println("Canción: Por si mañana no estoy");
         System.out.println("Artista: Omar courtz");
         System.out.println("¿Por qué?: Es una cancion sentimental pero con el ritmo perfecto.");
+
+        // Recomendación agregada por Maria Blancas
+        System.out.println();
+        System.out.println("Maria recomienda:");
+        System.out.println("Canción: Sugar");
+        System.out.println("Artista: Robin Schulz");
+        System.out.println("¿Por qué?: Me recuerda a cuando era niña.");
     }
 }
-
 
